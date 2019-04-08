@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/my"
+            android:icon="@drawable/my"
+            android:title="Trang chủ" />
+        <item
+            android:id="@+id/myoder"
+            android:icon="@drawable/my_oder"
+            android:title="Đơn hàng" />
+        <item
+            android:id="@+id/rewade"
+            android:icon="@drawable/my_rewade"
+            android:title="Phần Thưởng" />
+        <item
+            android:id="@+id/mycart"
+            android:icon="@drawable/ic_cart"
+            android:title="Giỏ Hàng" />
+        <item
+            android:id="@+id/wishlist"
+            android:icon="@drawable/my_wishlist"
+            android:title="Kế toán" />
+        <item
+            android:id="@+id/my_account"
+            android:icon="@drawable/my_account"
+            android:title="Tài khoản" />
+    </group>
+    <item
+        android:id="@+id/signout"
+        android:icon="@drawable/my_out"
+        android:title="Đăng xuất" />
+</menu>

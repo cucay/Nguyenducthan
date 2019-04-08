@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "240156841616",
+    "firebase_url": "https://ke-toan-859d6.firebaseio.com",
+    "project_id": "ke-toan-859d6",
+    "storage_bucket": "ke-toan-859d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240156841616:android:a6e9d4c2600c206c",
+        "android_client_info": {
+          "package_name": "com.example.pcthan.ketoan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240156841616-393ignee75gljdggstmfp93u2ph1d5b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5f3bsz9i09XSIKKUE1PZCK0c3frGHLhw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

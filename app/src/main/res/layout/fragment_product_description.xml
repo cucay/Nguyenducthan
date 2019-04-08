@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProductDescriptionFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:id="@+id/tv_product_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textColor="#000000"
+        android:text="Siêu phẩm mới từ Samsung hỗ trợ quay video 4K cực sắc nét, đáng để sở hữu. Siêu Phẩm Galaxy S.
+        Quyền Năng Đậm Chất Riêng. Tính Năng Vượt Trội. Giá Bán Dự Kiến Hấp Dẫn. Kiểu:
+         Trắng Pha Lê, Đen Ngân Hà, Xanh Lục Bảo, Đen Ceramic." />
+</FrameLayout>
